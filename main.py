@@ -16,4 +16,4 @@ options = HandLandmarkerOptions(
 with HandLandmarker.create_from_options(options) as landmarker:
     # The landmarker is initialized. Use it here.
     # # ...
-    print("placeholder")
+    print("placeholder") 
